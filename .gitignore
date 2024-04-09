@@ -1,0 +1,8 @@
+# Ignore Node.js build artifacts
+node_modules/
+
+# Logs
+*.log
+
+# Optional: ignore npm-debug.log*
+npm-debug.log*
